@@ -5,21 +5,49 @@
 
 ## Overview
 
-A computer vision dataset of vehicle logo segmentation masks. There are 32
-logos each with 16 images and masks.
+A computer vision dataset of vehicle logo segmentation masks. There are 32 logos each with 16 images and masks.
 
 Go [here](#download-the-dataset) if you don't have time.
 
 ---
-<!--
 
--->
+## Table of Contents
+
+- [About the Dataset](#about-the-dataset)
+    - [Sample Dataset](#sample-dataset)
+    - [Original Dataset](#original-dataset)
+- [Download the Dataset](#download-the-dataset)
+- [Links and References](#links-and-references)
+- [Who are we](#who-are-we)
+- [Contact us](#contact-us)
+- [License](#license)
+
+---
+
+## About the Dataset
+
+> Watch the [short video](https://drive.google.com/file/d/13o10ADNnK9MZf94GlUciy8C1ZWtnZw9_/view?usp=sharing) overview to become familiar with the dataset.
+
+Annotated, machine learning dataset of Vehicle Logos. There are 34 Vehicle Logos classes and 544 images each containing a single cropped vehicle logo and corresponding instance mask. There are 34 logos each with 16 images and masks.
+
+Cropped Logo images have been extracted from larger images containing cars. The car images are created using our mobile application and photographers. The images, crops and masks have been manually created.
+
+Maximum occlusion or truncation for any class annotation is ~10%.
+
+  - All images were collected through our mobile application that is available both on Android and iOS and as such are property of General Blockchain, Inc.
+  
+  - All annotations were created by our own fully employed in-house team.
+  
+  - Each cropped image was checked at least twice during the quality assurance process by different people.
+  
+  - Dataset is available in CSV format.
+
+### Sample Dataset
+
+### Original Dataset
 <!--
-Introduction
 • A computer vision dataset of vehicle logo segmentation masks. There are 32
 logos each with 16 images and masks.
-• Watch the short video overview to become familiar with the dataset.
-https://drive.google.com/file/d/13o10ADNnK9MZf94GlUciy8C1ZWtnZw9_/view?usp=sharing
 • This dataset release package has been created by the dataset production
 team to support the marketing and sales efforts of this dataset. The package
 consists of sample data and supporting promotional materials.
@@ -57,47 +85,7 @@ vehicle logos on cars
 • Annotation Animation - 1 gif and 1 video showing showing a mask
 • Keywords.csv - List of marketing keywords related to the dataset
 • Listings
--->
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [About the Dataset](#about-the-dataset)
-    - [Sample Dataset](#sample-dataset)
-    - [Original Dataset](#original-dataset)
-- [Download the Dataset](#download-the-dataset)
-- [Links and References](#links-and-references)
-- [Who are we](#who-are-we)
-- [Contact us](#contact-us)
-- [License](#license)
-
----
-
-## Introduction
-
-Annotated, machine learning dataset of Vehicle Logos. There are 34 Vehicle Logos classes and 544 images each containing a single cropped vehicle logo and corresponding instance mask.
-
-Cropped Logo images have been extracted from larger images containing cars. The car images are created using our mobile application and photographers. The images, crops and masks have been manually created.
-
-Maximum occlusion or truncation for any class annotation is ~10%.
-
-  - All images were collected through our mobile application that is available both on Android and iOS and as such are property of General Blockchain, Inc.
-  
-  - All annotations were created by our own fully employed in-house team.
-  
-  - Each cropped image was checked at least twice during the quality assurance process by different people.
-  
-  - Dataset is available in CSV format.
-
----
-
-## About the Dataset
-<!--
-This dataset is a total collection of 100 images with Segmentations of Chest X-ray Dataset of Novel Coronavirus (COVID-19) Cases. The annotation file is in COCO format.
-<!--
-Each annotation contains segmentations of Anatomical classes (Left lung, Right lung, Cardiomediastinum, Airways), Pathology classes (Ground glass opacities, Consolidation, Pleural effusion, Pneumothorax), Objects (Endotracheal tube, Central veinous line, Monitoring probes, Nasogastric tube, Chest tube, Tubings). Each image was manually annotated by qualified radiologists.
-<!--
-**Warning:** Do not claim diagnostic performance of a model without a clinical study!
 
 ---
 
