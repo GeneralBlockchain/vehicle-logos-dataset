@@ -81,13 +81,13 @@ Cropped Logo images have been extracted from larger images containing cars. The 
 
 Maximum occlusion or truncation for any class annotation is ~10%.
 
-  ● All images were collected through our mobile application that is available both on Android and iOS and as such are property of General Blockchain, Inc.
+  - All images were collected through our mobile application that is available both on Android and iOS and as such are property of General Blockchain, Inc.
   
-  ● All annotations were created by our own fully employed in-house team.
+  - All annotations were created by our own fully employed in-house team.
   
-  ● Each cropped image was checked at least twice during the quality assurance process by different people.
+  - Each cropped image was checked at least twice during the quality assurance process by different people.
   
-  ● Dataset is available in CSV format.
+  - Dataset is available in CSV format.
 
 ---
 
