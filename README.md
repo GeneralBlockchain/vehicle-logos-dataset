@@ -5,7 +5,7 @@
 
 ## Overview
 
-A computer vision dataset of vehicle logo segmentation masks. There are 32 logos each with 16 images and masks.
+A computer vision dataset of vehicle logo segmentation masks. There are 34 logos each with 16 images and masks.
 
 Go [here](#download-the-dataset) if you don't have time.
 
