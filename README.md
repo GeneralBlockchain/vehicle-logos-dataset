@@ -27,7 +27,9 @@ Go [here](#download-the-dataset) if you don't have time.
 
 ## About the Dataset
 
-<!--![GIF](https://user-images.githubusercontent.com/66736646/88480253-b8b23a00-cf76-11ea-8934-fced3f9e5acb.gif)
+<!--![GIF](https://user-images.githubusercontent.com/66736646/88480253-b8b23a00-cf76-11ea-8934-fced3f9e5acb.gif)-->
+
+<img src="https://user-images.githubusercontent.com/66736646/88480253-b8b23a00-cf76-11ea-8934-fced3f9e5acb.gif" alt="GIF" align="center" />
 
 ---
 
@@ -46,10 +48,12 @@ Maximum occlusion or truncation for any class annotation is ~10%.
   - Each cropped image was checked at least twice during the quality assurance process by different people.
   
   - Dataset is available in CSV format.
-  
+
+<!--  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66736646/88480253-b8b23a00-cf76-11ea-8934-fced3f9e5acb.gif" />
 </p>
+-->
 
 ### Sample Dataset
 
@@ -60,6 +64,7 @@ The sample dataset comes with 34 vehicle classes. Each of the classes have 16 im
 Our original dataset comes with 34 vehicle classes and a total of 4934 images. [Here](https://drive.google.com/file/d/13o10ADNnK9MZf94GlUciy8C1ZWtnZw9_/view?usp=sharing) is a demonstration of the dataset.
 
 ![original](https://user-images.githubusercontent.com/66736646/88541226-38530e00-d036-11ea-9c26-9d49ed0f7b11.png)
+
 <!--
 • A computer vision dataset of vehicle logo segmentation masks. There are 32
 logos each with 16 images and masks.
