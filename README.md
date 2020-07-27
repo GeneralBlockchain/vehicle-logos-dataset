@@ -52,7 +52,7 @@ The sample dataset comes with 34 vehicle classes. Each of the classes have 16 im
 
 Our original dataset comes with 34 vehicle classes and a total of 4934 images. [Here](https://drive.google.com/file/d/13o10ADNnK9MZf94GlUciy8C1ZWtnZw9_/view?usp=sharing) is a demonstration of the dataset.
 
-![original](https://user-images.githubusercontent.com/66736646/88541226-38530e00-d036-11ea-9c26-9d49ed0f7b11.png)
+![originalimg](https://user-images.githubusercontent.com/66736646/88541226-38530e00-d036-11ea-9c26-9d49ed0f7b11.png)
 
 <!--
 • A computer vision dataset of vehicle logo segmentation masks. There are 32
@@ -94,6 +94,7 @@ vehicle logos on cars
 • Annotation Animation - 1 gif and 1 video showing showing a mask
 • Keywords.csv - List of marketing keywords related to the dataset
 • Listings
+-->
 
 ---
 
