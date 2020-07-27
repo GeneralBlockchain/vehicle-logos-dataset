@@ -29,7 +29,7 @@ Go [here](#download-the-dataset) if you don't have time.
 
 <!--![GIF](https://user-images.githubusercontent.com/66736646/88480253-b8b23a00-cf76-11ea-8934-fced3f9e5acb.gif)-->
 
-<img src="https://user-images.githubusercontent.com/66736646/88480253-b8b23a00-cf76-11ea-8934-fced3f9e5acb.gif" alt="GIF" align="centre" />
+<!--<img src="https://user-images.githubusercontent.com/66736646/88480253-b8b23a00-cf76-11ea-8934-fced3f9e5acb.gif" alt="GIF" align="centre" />-->
 
 ---
 
