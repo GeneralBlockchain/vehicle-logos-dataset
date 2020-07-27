@@ -17,6 +17,7 @@ Go [here](#download-the-dataset) if you don't have time.
     - [Sample Dataset](#sample-dataset)
     - [Original Dataset](#original-dataset)
 - [Download the Dataset](#download-the-dataset)
+- [Evaluation](#evaluation)
 - [Links and References](#links-and-references)
 - [Who are we](#who-are-we)
 - [Contact us](#contact-us)
@@ -54,6 +55,8 @@ The sample dataset comes with 34 vehicle classes. Each of the classes have 16 im
 ### Original Dataset
 
 Our original dataset comes with 34 vehicle classes and a total of 4934 images. [Here](https://drive.google.com/file/d/13o10ADNnK9MZf94GlUciy8C1ZWtnZw9_/view?usp=sharing) is a demonstration of the dataset.
+
+![original](https://user-images.githubusercontent.com/66736646/88541226-38530e00-d036-11ea-9c26-9d49ed0f7b11.png)
 <!--
 • A computer vision dataset of vehicle logo segmentation masks. There are 32
 logos each with 16 images and masks.
@@ -95,7 +98,6 @@ vehicle logos on cars
 • Keywords.csv - List of marketing keywords related to the dataset
 • Listings
 
-
 ---
 
 ## Download the Dataset
@@ -111,6 +113,16 @@ Open terminal and run the following command:
 ```
 git clone https://github.com/GeneralBlockchain/vehicle-logos-dataset.git
 ```
+
+## Evaluation
+
+### Model Evaluation Result
+
+![evaluation](https://user-images.githubusercontent.com/66736646/88541530-b3b4bf80-d036-11ea-8061-eb911387a1fa.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](https://user-images.githubusercontent.com/66736646/88541547-ba433700-d036-11ea-920f-a1374a2e825f.png)
 
 ## Links and References
 <!--
