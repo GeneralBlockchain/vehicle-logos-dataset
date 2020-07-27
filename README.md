@@ -59,6 +59,19 @@ The sample dataset comes with 34 vehicle classes. Each of the classes have 16 im
 | 8 |Necessities    | 16 |
 | Total          | 544 | 
 
+| Root Category        | Logos           | Images  |
+| ------------- |:-------------:| -----:|
+| Food          |    769        | 54,507 |
+| Clothes       |    286        | 20,413 |
+| Institution   |    238        | 17,103 |
+| Accessories   |    210        | 14,569 |
+|Transportation |    203        | 14,719 |
+|Electronic     |    191        | 13,972 |
+|Necessities    |    182        | 13,205 |
+|Cosmetic       |    115        |  7,929 |
+|Leisure        |    99         |  7,338 |
+|Medical        |    48         |  3,385 |
+|Total          |    2,341      |167,140 | 
 
 ### Original Dataset
 
