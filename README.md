@@ -50,30 +50,36 @@ The sample dataset comes with 34 vehicle classes. Each of the classes have 16 im
 
 | No        | Category           | Images  |
 | ------------- |:-------------:| -----:|
-| 1          |    Vehicle        | 16 |
-| 2       |    Vehicle        | 16 |
-| 3   |    Vehicle        | 16 |
-| 4   |    Vehicle        | 16 |
-|5 |    Vehicle        | 16 |
-|6     |    Vehicle        | 16 |
-|7    |    Vehicle        | 16 |
-|8       |    Vehicle        |  16 |
-|9        |    Vehicle         |  16 |
-|10        |    Vehicle         |  16 |
-|10        |    Vehicle         |  16 |
-|10        |    Vehicle         |  16 |
-|10        |    Vehicle         |  16 |
-|10        |    Vehicle         |  16 |
-|10        |    Vehicle         |  16 |
-|10        |    Vehicle         |  16 |
-|10        |    Vehicle         |  16 |
-|10        |    Vehicle         |  16 |
-|10        |    Vehicle         |  16 |
-|10        |    Vehicle         |  16 |
-|10        |    Vehicle         |  16 |
-|10        |    Vehicle         |  16 |
-|10        |    Vehicle         |  16 |
+| 1          |    Toyota        | 16 |
+| 2       |    Mitsubishi        | 16 |
+| 3   |    Seat        | 16 |
+| 4   |    Suzuki        | 16 |
+|5 |    Opel        | 16 |
+|6     |    Honda 1        | 16 |
+|7    |    Renault        | 16 |
+|8       |    Mercedes 1        |  16 |
+|9        |    Volkswagen         |  16 |
+|10        |    Subaru         |  16 |
+|11        |    Dacia 1         |  16 |
+|12        |    Citroen         |  16 |
+|13        |    Land Rover         |  16 |
+|14        |    Tesla         |  16 |
+|15        |    Mazda         |  16 |
+|16        |    Nissan         |  16 |
+|17        |    Hyundai         |  16 |
+|18        |    Lancia 1         |  16 |
+|19        |    Skoda 1         |  16 |
+|20        |    Chevrolet 2         |  16 |
+|21        |    Porsche         |  16 |
+|22        |    Peugeot         |  16 |
+|23        |    Jeep         |  16 |
 |Total          |    34      |544 | 
+
+'Toyota' 'Mitsubishi' 'Seat' 'Suzuki' 'Opel' 'Honda 1' 'Renault'
+ 'Mercedes 1' 'Volkswagen' 'Subaru' 'Dacia 1' 'Citroen' 'Land Rover'
+ 'Tesla' 'Mazda' 'Nissan' 'Hyundai' 'Lancia 1' 'Skoda 1' 'Chevrolet 2'
+ 'Porsche' 'Peugeot' 'Jeep' 'Mini' 'Kia 1' 'Lexus' 'Smart 2' 'Volvo 1'
+ 'GMC' 'Ford' 'Daewoo 1' 'Acura' 'Alfa Romeo' 'BMW'
 
 ### Original Dataset
 
