@@ -1,6 +1,6 @@
 # Vehicle Logos Dataset
 
-![COVID-19]()
+![Vehicle-Logo]()
 (Collage cover will be added)
 
 ## Overview
