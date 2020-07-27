@@ -48,6 +48,18 @@ Maximum occlusion or truncation for any class annotation is ~10%.
 
 The sample dataset comes with 34 vehicle classes. Each of the classes have 16 images and masks. So, a total of 544 images and masks are present in the sample dataset.
 
+|No.| Root Category        | Images  |
+|1| ------------- | -----:|
+|2| Food          | 16 |
+|3| Clothes       | 16 |
+|4| Institution   | 16 |
+|5| Accessories   | 16 |
+|6|Transportation | 16 |
+|7|Electronic     | 16 |
+|8|Necessities    | 16 |
+|Total          | 544 | 
+
+
 ### Original Dataset
 
 Our original dataset comes with 34 vehicle classes and a total of 4934 images. [Here](https://drive.google.com/file/d/13o10ADNnK9MZf94GlUciy8C1ZWtnZw9_/view?usp=sharing) is a demonstration of the dataset.
