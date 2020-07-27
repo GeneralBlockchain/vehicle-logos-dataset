@@ -27,10 +27,6 @@ Go [here](#download-the-dataset) if you don't have time.
 
 ## About the Dataset
 
-<!--![GIF](https://user-images.githubusercontent.com/66736646/88480253-b8b23a00-cf76-11ea-8934-fced3f9e5acb.gif)
-
-<!--<img src="https://user-images.githubusercontent.com/66736646/88480253-b8b23a00-cf76-11ea-8934-fced3f9e5acb.gif" alt="GIF" align="centre" />
-
 Annotated, machine learning dataset of Vehicle Logos. There are 34 Vehicle Logos classes and 544 images each containing a single cropped vehicle logo and corresponding instance mask. There are 34 logos each with 16 images and masks.
 
 Cropped Logo images have been extracted from larger images containing cars. The car images are created using our mobile application and photographers. The images, crops and masks have been manually created.
