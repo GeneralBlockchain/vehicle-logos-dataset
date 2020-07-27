@@ -61,17 +61,17 @@ The sample dataset comes with 34 vehicle classes. Each of the classes have 16 im
 
 | No        | Category           | Images  |
 | ------------- |:-------------:| -----:|
-| 1          |    769        | 54,507 |
-| 2       |    286        | 20,413 |
-| 3   |    238        | 17,103 |
-| 4   |    210        | 14,569 |
-|5 |    203        | 14,719 |
-|6     |    191        | 13,972 |
-|7    |    182        | 13,205 |
-|8       |    115        |  7,929 |
-|9        |    99         |  7,338 |
-|10        |    48         |  3,385 |
-|Total          |    2,341      |167,140 | 
+| 1          |    Vehicle        | 16 |
+| 2       |    Vehicle        | 16 |
+| 3   |    Vehicle        | 16 |
+| 4   |    Vehicle        | 16 |
+|5 |    Vehicle        | 16 |
+|6     |    Vehicle        | 16 |
+|7    |    Vehicle        | 16 |
+|8       |    Vehicle        |  16 |
+|9        |    Vehicle         |  16 |
+|10        |    Vehicle         |  16 |
+|Total          |    34      |544 | 
 
 ### Original Dataset
 
