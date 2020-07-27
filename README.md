@@ -1,6 +1,6 @@
 # Vehicle Logos Dataset
 
-![Vehicle-Logo]()
+![Vehicle_Logo]()
 (Collage cover will be added)
 
 ## Overview
@@ -123,11 +123,11 @@ git clone https://github.com/GeneralBlockchain/vehicle-logos-dataset.git
 
 ## Links and References
 <!--
-- Dataset homepage: https://github.com/GeneralBlockchain/covid-19-chest-xray-segmentations-dataset
+- Dataset homepage: https://github.com/GeneralBlockchain/vehicle-logos-dataset
 <!--
-- Repository: https://github.com/GeneralBlockchain/covid-19-chest-xray-segmentations-dataset.git
+- Repository: https://github.com/GeneralBlockchain/vehicle-logos-dataset.git
 <!--
-- Issue tracker: https://github.com/GeneralBlockchain/covid-19-chest-xray-segmentations-dataset/issues
+- Issue tracker: https://github.com/GeneralBlockchain/vehicle-logos-dataset/issues
 
 - In case of any help you may need from us, please [contact us](#contact-us) directly without any hesitation! We will be glad to help you.
 
