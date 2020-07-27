@@ -122,11 +122,11 @@ git clone https://github.com/GeneralBlockchain/vehicle-logos-dataset.git
 ![Confusion_Matrix](https://user-images.githubusercontent.com/66736646/88541547-ba433700-d036-11ea-920f-a1374a2e825f.png)
 
 ## Links and References
-<!--
+
 - Dataset homepage: https://github.com/GeneralBlockchain/vehicle-logos-dataset
-<!--
+
 - Repository: https://github.com/GeneralBlockchain/vehicle-logos-dataset.git
-<!--
+
 - Issue tracker: https://github.com/GeneralBlockchain/vehicle-logos-dataset/issues
 
 - In case of any help you may need from us, please [contact us](#contact-us) directly without any hesitation! We will be glad to help you.
@@ -152,9 +152,7 @@ Please access our Image Annotation AI services [here](https://www.imageannotatio
 ---
 
 ## License
-<!--
-Each image has license specified in the [metadata.csv](https://github.com/GeneralBlockchain/covid-19-chest-xray-segmentations-dataset/blob/master/metadata.csv) file. Including Apache 2.0, CC BY-NC-SA 4.0, CC BY 4.0.
--->
+
 The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 ---
