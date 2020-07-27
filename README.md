@@ -27,9 +27,9 @@ Go [here](#download-the-dataset) if you don't have time.
 
 ## About the Dataset
 
-<!--![GIF](https://user-images.githubusercontent.com/66736646/88480253-b8b23a00-cf76-11ea-8934-fced3f9e5acb.gif)-->
+<!--![GIF](https://user-images.githubusercontent.com/66736646/88480253-b8b23a00-cf76-11ea-8934-fced3f9e5acb.gif)
 
-<!--<img src="https://user-images.githubusercontent.com/66736646/88480253-b8b23a00-cf76-11ea-8934-fced3f9e5acb.gif" alt="GIF" align="centre" />-->
+<!--<img src="https://user-images.githubusercontent.com/66736646/88480253-b8b23a00-cf76-11ea-8934-fced3f9e5acb.gif" alt="GIF" align="centre" />
 
 Annotated, machine learning dataset of Vehicle Logos. There are 34 Vehicle Logos classes and 544 images each containing a single cropped vehicle logo and corresponding instance mask. There are 34 logos each with 16 images and masks.
 
@@ -47,7 +47,6 @@ Maximum occlusion or truncation for any class annotation is ~10%.
 
 > Watch the [short video](https://drive.google.com/file/d/13o10ADNnK9MZf94GlUciy8C1ZWtnZw9_/view?usp=sharing) overview to become familiar with the dataset.
 
-<!--<p align="center"><img src="https://user-images.githubusercontent.com/66736646/88480253-b8b23a00-cf76-11ea-8934-fced3f9e5acb.gif" /></p>
 
 ### Sample Dataset
 
@@ -106,7 +105,7 @@ vehicle logos on cars
 
 ### Download the dataset as zip format
 
-![Download zip](https://user-images.githubusercontent.com/66736646/88542138-c5e32d80-d037-11ea-9df5-8d987bbc5cad.png)
+![Download_zip](https://user-images.githubusercontent.com/66736646/88542138-c5e32d80-d037-11ea-9df5-8d987bbc5cad.png)
 
 ### Download using git clone
 
@@ -124,7 +123,7 @@ git clone https://github.com/GeneralBlockchain/vehicle-logos-dataset.git
 
 ### Confusion Matrix
 
-![Confusion Matrix](https://user-images.githubusercontent.com/66736646/88541547-ba433700-d036-11ea-920f-a1374a2e825f.png)
+![Confusion_Matrix](https://user-images.githubusercontent.com/66736646/88541547-ba433700-d036-11ea-920f-a1374a2e825f.png)
 
 ## Links and References
 <!--
