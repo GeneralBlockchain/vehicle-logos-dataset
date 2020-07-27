@@ -73,7 +73,26 @@ The sample dataset comes with 34 vehicle classes. Each of the classes have 16 im
 |21        |    Porsche         |  16 |
 |22        |    Peugeot         |  16 |
 |23        |    Jeep         |  16 |
+|24        |    Mini         |  16 |
+|25        |    Kia 1         |  16 |
+|26        |    Lexus         |  16 |
+|27        |    Smart 2         |  16 |
+|28        |    Volvo 1         |  16 |
+|29        |    GMC         |  16 |
+|30        |    Ford         |  16 |
+|31        |    Daewoo 1         |  16 |
+|32        |    Acura         |  16 |
+|33        |    Alfa Romeo         |  16 |
+|34        |    BMW         |  16 |
 |Total          |    34      |544 | 
+
+
+| No        | Category           | Images  |
+| ------------- |:-------------:| -----:|
+| 1          |    Toyota        | 16 |
+
+| Category           |-------------|toyo|
+| Images  |-------------|50|
 
 'Toyota' 'Mitsubishi' 'Seat' 'Suzuki' 'Opel' 'Honda 1' 'Renault'
  'Mercedes 1' 'Volkswagen' 'Subaru' 'Dacia 1' 'Citroen' 'Land Rover'
