@@ -27,9 +27,6 @@ Go [here](#download-the-dataset) if you don't have time.
 
 ## About the Dataset
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/66736646/88480253-b8b23a00-cf76-11ea-8934-fced3f9e5acb.gif" />
-</p>
 <!--![GIF](https://user-images.githubusercontent.com/66736646/88480253-b8b23a00-cf76-11ea-8934-fced3f9e5acb.gif)
 
 ---
@@ -49,6 +46,10 @@ Maximum occlusion or truncation for any class annotation is ~10%.
   - Each cropped image was checked at least twice during the quality assurance process by different people.
   
   - Dataset is available in CSV format.
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66736646/88480253-b8b23a00-cf76-11ea-8934-fced3f9e5acb.gif" />
+</p>
 
 ### Sample Dataset
 
