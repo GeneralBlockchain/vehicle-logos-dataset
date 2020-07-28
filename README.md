@@ -46,6 +46,8 @@ Maximum occlusion or truncation for any class annotation is ~10%.
 
 ![ford1](https://user-images.githubusercontent.com/66736646/88667821-aa455900-d103-11ea-882f-26d576adce1e.png) ![ford2](https://user-images.githubusercontent.com/66736646/88667867-b5988480-d103-11ea-813b-37a774f6612a.png) ![ford3](https://user-images.githubusercontent.com/66736646/88667879-bb8e6580-d103-11ea-91c8-e4bec0d4ebd7.png) ![ford4](https://user-images.githubusercontent.com/66736646/88667905-c21cdd00-d103-11ea-8609-4d86364efa40.png)
 
+<img src="https://user-images.githubusercontent.com/66736646/88667821-aa455900-d103-11ea-882f-26d576adce1e.png" width="200"/> <img src="https://user-images.githubusercontent.com/66736646/88667867-b5988480-d103-11ea-813b-37a774f6612a.png" width="200"/> <img src="https://user-images.githubusercontent.com/66736646/88667879-bb8e6580-d103-11ea-91c8-e4bec0d4ebd7.png" width="200"/> <img src="https://user-images.githubusercontent.com/66736646/88667905-c21cdd00-d103-11ea-8609-4d86364efa40.png" width="200"/>
+
 ### Sample Dataset
 
 The sample dataset comes with 34 vehicle classes. Each of the classes have 16 images and masks. So, a total of 544 images and masks are present in the sample dataset.
