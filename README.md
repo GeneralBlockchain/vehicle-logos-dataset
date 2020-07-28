@@ -1,7 +1,6 @@
 # Vehicle Logos Dataset
 
-![Vehicle_Logo]()
-(Collage cover will be added)
+![Vehicle_Logo](https://user-images.githubusercontent.com/66736646/88664543-06f24500-d0ff-11ea-89f3-6e7cb8966ae9.png)
 
 ## Overview
 
