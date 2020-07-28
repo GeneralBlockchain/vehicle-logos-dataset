@@ -42,6 +42,9 @@ Maximum occlusion or truncation for any class annotation is ~10%.
 
 > Watch the [short video](https://drive.google.com/file/d/13o10ADNnK9MZf94GlUciy8C1ZWtnZw9_/view?usp=sharing) overview to become familiar with the dataset.
 
+### Examples
+
+![ford1](https://user-images.githubusercontent.com/66736646/88667821-aa455900-d103-11ea-882f-26d576adce1e.png) ![ford2](https://user-images.githubusercontent.com/66736646/88667867-b5988480-d103-11ea-813b-37a774f6612a.png) ![ford3](https://user-images.githubusercontent.com/66736646/88667879-bb8e6580-d103-11ea-91c8-e4bec0d4ebd7.png) ![ford4](https://user-images.githubusercontent.com/66736646/88667905-c21cdd00-d103-11ea-8609-4d86364efa40.png)
 
 ### Sample Dataset
 
