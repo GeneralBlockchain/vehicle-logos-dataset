@@ -203,12 +203,19 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-
 ### Ford
 
 <img src="" width="200"/> <img src="" width="200"/> <img src="" width="200"/> <img src="" width="200"/>
 
 <img src="" width="200"/> <img src="" width="200"/> <img src="" width="200"/> <img src="" width="200"/>
+
+---
+
+### Lancia
+
+<img src="https://user-images.githubusercontent.com/33668152/88800616-46399800-d1ca-11ea-8835-83b1ce212d74.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88800624-48035b80-d1ca-11ea-82c0-9b077e5d69c5.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88800629-49348880-d1ca-11ea-9de2-79ef6686a21f.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88800635-4a65b580-d1ca-11ea-9e2d-c85ea2b734f0.png" width="200"/>
+
+<img src="https://user-images.githubusercontent.com/33668152/88800622-476ac500-d1ca-11ea-8fa1-6c64b2aa5b18.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88800627-489bf200-d1ca-11ea-9673-5751675ee1cc.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88800632-49cd1f00-d1ca-11ea-8c21-baac70b43e5f.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88800639-4afe4c00-d1ca-11ea-8da0-04ea813f88b5.png" width="200"/>
 
 ---
 
