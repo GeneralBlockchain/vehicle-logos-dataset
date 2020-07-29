@@ -268,11 +268,11 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Ford
+### 3 kona
 
-<img src="" width="200"/> <img src="" width="200"/> <img src="" width="200"/> <img src="" width="200"/>
+<img src="https://user-images.githubusercontent.com/33668152/88798336-8e56bb80-d1c6-11ea-8006-c3facd3a4f1a.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88798342-90207f00-d1c6-11ea-972b-ee4e60ea43e9.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88798346-9151ac00-d1c6-11ea-86d2-a0765b81c4b5.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88798349-931b6f80-d1c6-11ea-8a63-538cb953cc64.png" width="200"/>
 
-<img src="" width="200"/> <img src="" width="200"/> <img src="" width="200"/> <img src="" width="200"/>
+<img src="https://user-images.githubusercontent.com/33668152/88798340-8f87e880-d1c6-11ea-88c0-a234bd77b810.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88798343-90b91580-d1c6-11ea-902e-ae6069ed7cc0.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88798347-9282d900-d1c6-11ea-8724-b0fd3d9af176.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88798353-944c9c80-d1c6-11ea-91cd-0791d3708b06.png" width="200"/>
 
 ---
 
