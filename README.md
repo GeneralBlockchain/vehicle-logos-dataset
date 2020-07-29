@@ -229,14 +229,14 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 <img src="https://user-images.githubusercontent.com/33668152/88793643-f43f4500-d1be-11ea-9f1d-5ac960117273.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793650-f6090880-d1be-11ea-8a0b-d2e0de91216e.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793659-f73a3580-d1be-11ea-8b5e-53d318c8d889.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793663-f86b6280-d1be-11ea-9a5f-41d627bc1d7b.png" width="200"/>
 
-<img src="https://user-images.githubusercontent.com/33668152/88793649-f5707200-d1be-11ea-8498-ee390e5af7a9.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793655-f6a19f00-d1be-11ea-9310-ada3627509b4.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793662-f86b6280-d1be-11ea-9749-32389985d760.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793666-f99c8f80-d1be-11ea-9347-5a1a0b18bccf.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/33668152/88793649-f5707200-d1be-11ea-8498-ee390e5af7a9.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793655-f6a19f00-d1be-11ea-9310-ada3627509b4.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88794613-8eec5380-d1c0-11ea-8609-3960446fbbf6.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793666-f99c8f80-d1be-11ea-9347-5a1a0b18bccf.png" width="200"/>
 
 ---
-### Ford
+### Donno Star
 
-<img src="https://user-images.githubusercontent.com/66736646/88667821-aa455900-d103-11ea-882f-26d576adce1e.png" width="200"/> <img src="https://user-images.githubusercontent.com/66736646/88667867-b5988480-d103-11ea-813b-37a774f6612a.png" width="200"/> <img src="https://user-images.githubusercontent.com/66736646/88667879-bb8e6580-d103-11ea-91c8-e4bec0d4ebd7.png" width="200"/> <img src="https://user-images.githubusercontent.com/66736646/88667905-c21cdd00-d103-11ea-8609-4d86364efa40.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/33668152/88794604-8b58cc80-d1c0-11ea-81bf-18759b70d1b7.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88794609-8dbb2680-d1c0-11ea-830b-d3ba77cefca4.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88794615-901d8080-d1c0-11ea-8656-9af5d3ddadf0.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88794617-901d8080-d1c0-11ea-9618-559be5896f7a.png" width="200"/>
 
-<img src="https://user-images.githubusercontent.com/66736646/88671365-07dba480-d108-11ea-84a6-c84dff40d8df.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/66736646/88670762-4886ee00-d107-11ea-8e88-3e26e72530c9.png" width="200"/> <img src="https://user-images.githubusercontent.com/66736646/88670781-4d4ba200-d107-11ea-9743-6327eb6da28f.png" width="200"/> <img src="https://user-images.githubusercontent.com/66736646/88670805-5472b000-d107-11ea-803e-2c34aa8e2528.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/33668152/88794607-8d229000-d1c0-11ea-98d3-cf517612d62a.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88794611-8e53bd00-d1c0-11ea-80c6-d667b6af2115.png" width="200"/> <img src="https://user-images.githubusercontent.com/66736646/88670781-4d4ba200-d107-11ea-9743-6327eb6da28f.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88794620-914ead80-d1c0-11ea-90ff-e6f3a57b2008.png" width="200"/>
 
 ---
 ### Ford
