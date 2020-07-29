@@ -206,7 +206,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ### Chevrolet
 
-<img src="https://user-images.githubusercontent.com/33668152/88792104-927ddb80-d1bc-11ea-9cbb-74401b9b6060.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792111-94479f00-d1bc-11ea-92f3-e3c3227cf1b2.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792115-96116280-d1bc-11ea-80c9-5ec338752d0d.png" width="200"/> <img src="https://user-images.githubusercontent.com/66736646/88667905-c21cdd00-d103-11ea-8609-4d86364efa40.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/33668152/88792104-927ddb80-d1bc-11ea-9cbb-74401b9b6060.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792111-94479f00-d1bc-11ea-92f3-e3c3227cf1b2.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792115-96116280-d1bc-11ea-80c9-5ec338752d0d.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792124-97db2600-d1bc-11ea-851f-03988ba7edb1.png" width="200"/>
 
 <img src="https://user-images.githubusercontent.com/33668152/88792106-93af0880-d1bc-11ea-857e-570902ff1288.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792113-9578cc00-d1bc-11ea-9143-753b7400141b.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792122-97428f80-d1bc-11ea-9f81-05bad1dfa118.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792129-9873bc80-d1bc-11ea-89bf-1d3ac0ae30ad.png" width="200"/>
 
