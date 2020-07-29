@@ -211,15 +211,15 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Ford
+### S
 
-<img src="" width="200"/> <img src="" width="200"/> <img src="" width="200"/> <img src="" width="200"/>
+<img src="https://user-images.githubusercontent.com/33668152/88834160-3daa8700-d1f5-11ea-8b85-a62d61195220.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88834169-3f744a80-d1f5-11ea-9341-1d6bbcb34bc7.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88834174-413e0e00-d1f5-11ea-8faf-027e2304bd3e.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88834181-426f3b00-d1f5-11ea-92b5-007c604aa047.png" width="200"/>
 
-<img src="" width="200"/> <img src="" width="200"/> <img src="" width="200"/> <img src="" width="200"/>
+<img src="https://user-images.githubusercontent.com/33668152/88834165-3edbb400-d1f5-11ea-8547-ee1f83bf80c9.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88834171-400ce100-d1f5-11ea-97f9-bea7cbee92c1.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88834179-41d6a480-d1f5-11ea-959c-59bd296845e3.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88834185-4307d180-d1f5-11ea-9165-8ecd910c8e3a.png" width="200"/>
 
 ---
 
-### Ford
+### KIA
 
 <img src="https://user-images.githubusercontent.com/33668152/88830448-c9211980-d1ef-11ea-9eb5-d912a127f9d5.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88830455-cb837380-d1ef-11ea-80be-bfbcb8f02816.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88830462-ccb4a080-d1ef-11ea-981d-1aa319d2ce80.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88830469-ce7e6400-d1ef-11ea-8347-774bd4df4548.png" width="200"/>
 
@@ -227,7 +227,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Ford
+### NISSAN
 
 <img src="https://user-images.githubusercontent.com/33668152/88828068-827df000-d1ec-11ea-9ab0-83ff32d10442.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88828079-8578e080-d1ec-11ea-9fbf-4a96f78409d3.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88828086-8742a400-d1ec-11ea-9751-4480893d89b4.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88828095-890c6780-d1ec-11ea-93bb-cac201e77ab6.png" width="200"/>
 
@@ -458,28 +458,6 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 <img src="https://user-images.githubusercontent.com/33668152/88798340-8f87e880-d1c6-11ea-88c0-a234bd77b810.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88798343-90b91580-d1c6-11ea-902e-ae6069ed7cc0.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88798347-9282d900-d1c6-11ea-8724-b0fd3d9af176.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88798353-944c9c80-d1c6-11ea-91cd-0791d3708b06.png" width="200"/>
 
 ---
-
-
-### Ford
-
-<img src="" width="200"/> <img src="" width="200"/> <img src="" width="200"/> <img src="" width="200"/>
-
-<img src="" width="200"/> <img src="" width="200"/> <img src="" width="200"/> <img src="" width="200"/>
-
----
-
-### Ford
-
-<img src="https://user-images.githubusercontent.com/66736646/88667821-aa455900-d103-11ea-882f-26d576adce1e.png" width="200"/> <img src="https://user-images.githubusercontent.com/66736646/88667867-b5988480-d103-11ea-813b-37a774f6612a.png" width="200"/> <img src="https://user-images.githubusercontent.com/66736646/88667879-bb8e6580-d103-11ea-91c8-e4bec0d4ebd7.png" width="200"/> <img src="https://user-images.githubusercontent.com/66736646/88667905-c21cdd00-d103-11ea-8609-4d86364efa40.png" width="200"/>
-
-<img src="https://user-images.githubusercontent.com/66736646/88671365-07dba480-d108-11ea-84a6-c84dff40d8df.jpg" width="200"/> <img src="https://user-images.githubusercontent.com/66736646/88670762-4886ee00-d107-11ea-8e88-3e26e72530c9.png" width="200"/> <img src="https://user-images.githubusercontent.com/66736646/88670781-4d4ba200-d107-11ea-9743-6327eb6da28f.png" width="200"/> <img src="https://user-images.githubusercontent.com/66736646/88670805-5472b000-d107-11ea-803e-2c34aa8e2528.png" width="200"/>
-
----
-
-
-
-
-
 
 
 
