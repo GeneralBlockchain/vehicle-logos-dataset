@@ -205,7 +205,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Ford
+### Ford Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88835316-e7d6de80-d1f6-11ea-8332-760da6929a92.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88835328-e9a0a200-d1f6-11ea-962e-5eddf986427e.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88835337-eb6a6580-d1f6-11ea-8d58-aaa0bc0001f4.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88835342-ec9b9280-d1f6-11ea-9753-946f8ea2bbe2.png" width="200"/>
 
@@ -213,7 +213,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Suzuki
+### Suzuki Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88834846-3b94f800-d1f6-11ea-9b93-ca16d6835d49.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88834853-3d5ebb80-d1f6-11ea-851d-2f3678a4f455.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88834859-3f287f00-d1f6-11ea-8fc2-2580ade4dce1.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88834868-4059ac00-d1f6-11ea-9767-5cdf5149d966.png" width="200"/>
 
@@ -221,7 +221,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Seat
+### Seat Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88834160-3daa8700-d1f5-11ea-8b85-a62d61195220.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88834169-3f744a80-d1f5-11ea-9341-1d6bbcb34bc7.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88834174-413e0e00-d1f5-11ea-8faf-027e2304bd3e.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88834181-426f3b00-d1f5-11ea-92b5-007c604aa047.png" width="200"/>
 
@@ -229,7 +229,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### KIA
+### KIA Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88830448-c9211980-d1ef-11ea-9eb5-d912a127f9d5.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88830455-cb837380-d1ef-11ea-80be-bfbcb8f02816.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88830462-ccb4a080-d1ef-11ea-981d-1aa319d2ce80.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88830469-ce7e6400-d1ef-11ea-8347-774bd4df4548.png" width="200"/>
 
@@ -237,7 +237,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### NISSAN
+### NISSAN Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88828068-827df000-d1ec-11ea-9ab0-83ff32d10442.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88828079-8578e080-d1ec-11ea-9fbf-4a96f78409d3.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88828086-8742a400-d1ec-11ea-9751-4480893d89b4.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88828095-890c6780-d1ec-11ea-93bb-cac201e77ab6.png" width="200"/>
 
@@ -245,7 +245,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Daewoo
+### Daewoo Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88825790-cf13fc00-d1e9-11ea-9228-3151c8172bd2.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88825801-d0452900-d1e9-11ea-986a-cfc56acce131.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88825807-d1765600-d1e9-11ea-97fd-411529bac51a.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88825816-d2a78300-d1e9-11ea-969e-bfce3ac7d5ea.png" width="200"/>
 
@@ -253,7 +253,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Land Rover
+### Land Rover Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88824989-d555a880-d1e8-11ea-835d-54b4aaf6e613.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88824997-d7b80280-d1e8-11ea-8e24-957fe5526526.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88825008-dc7cb680-d1e8-11ea-9833-dcb63762cd01.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88825016-dedf1080-d1e8-11ea-9992-e51990528f03.png" width="200"/>
 
@@ -261,7 +261,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Alfa Romeo
+### Alfa Romeo Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88824284-fbc71400-d1e7-11ea-808a-1e7331104864.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88824292-fe296e00-d1e7-11ea-88f2-9e0b5b5fbb2b.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88824301-008bc800-d1e8-11ea-9ebc-41d804d90b5f.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88824313-02558b80-d1e8-11ea-997e-009931a1f107.png" width="200"/>
 
@@ -269,7 +269,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Smart
+### Smart Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88822829-329c2a80-d1e6-11ea-94aa-b42f5161b001.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88822837-34fe8480-d1e6-11ea-8dbb-99b9436b428a.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88822841-362fb180-d1e6-11ea-99fd-f6cd06950480.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88822847-38920b80-d1e6-11ea-9920-8b3440467108.png" width="200"/>
 
@@ -277,7 +277,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Opel
+### Opel Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88820933-cc160d00-d1e3-11ea-99d7-4e8d8e870e6b.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88820942-ce786700-d1e3-11ea-98b6-93b95c33ea87.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88820952-d0dac100-d1e3-11ea-85e0-873d0b705e4e.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88820962-d2a48480-d1e3-11ea-8a86-c5f9a8e3e389.png" width="200"/>
 
@@ -285,7 +285,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Acura
+### Acura Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88819779-434aa180-d1e2-11ea-9bf5-80e80fbd8155.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88819788-46459200-d1e2-11ea-93b0-9702f536f2db.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88819799-4776bf00-d1e2-11ea-9d04-7290f32321ed.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88819802-49408280-d1e2-11ea-8977-eab5d0898df5.png" width="200"/>
 
@@ -293,7 +293,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Citroen
+### Citroen Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88815903-a980f580-d1dd-11ea-8376-56ed8baa61a6.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88815917-adad1300-d1dd-11ea-9c69-cbfe50ef7e2c.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88815920-aede4000-d1dd-11ea-94f9-6a2f881a0718.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88815932-b00f6d00-d1dd-11ea-9eee-d0306c4b5830.png" width="200"/>
 
@@ -301,7 +301,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Mercedes
+### Mercedes Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88814663-3dea5880-d1dc-11ea-80b7-f2831e805062.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88814672-417ddf80-d1dc-11ea-8371-773f30a986a2.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88814685-4478d000-d1dc-11ea-93f4-7204c82987d1.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88814704-480c5700-d1dc-11ea-8785-44ff2d6eda86.png" width="200"/>
 
@@ -309,7 +309,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Skoda
+### Skoda Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88811288-3032d400-d1d8-11ea-8c56-19efc5986424.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88811297-32952e00-d1d8-11ea-8c4d-96ef40ec6e7f.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88811311-35901e80-d1d8-11ea-81c8-c115516aafe4.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88811317-3759e200-d1d8-11ea-9f73-682281f9e572.png" width="200"/>
 
@@ -317,7 +317,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Volkswagen
+### Volkswagen Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88809972-8ef74e00-d1d6-11ea-951d-f1f345bdfb9f.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88809983-91f23e80-d1d6-11ea-9362-997b58dc1848.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88809987-93bc0200-d1d6-11ea-9ead-3121e2fba4b1.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88809995-9585c580-d1d6-11ea-95e0-3fb686a0ae49.png" width="200"/>
 
@@ -325,7 +325,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Hyundai
+### Hyundai Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88806088-c31c4000-d1d1-11ea-8189-f964ed07e621.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88806096-c57e9a00-d1d1-11ea-83d4-0622f30c1ef4.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88806105-c6afc700-d1d1-11ea-897e-c123beaf4b8a.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88806109-c8798a80-d1d1-11ea-9ba5-27055afb2092.png" width="200"/>
 
@@ -333,7 +333,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Porsche
+### Porsche Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88805638-38d3dc00-d1d1-11ea-8069-c30ebfc055ae.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88805650-3b363600-d1d1-11ea-9b0b-8cc0c68f3615.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88805656-3cfff980-d1d1-11ea-9edd-8e5636ac2ebe.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88805663-3d989000-d1d1-11ea-8b35-dc01b1f41b67.png" width="200"/>
 
@@ -341,7 +341,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### BMW
+### BMW Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88802465-ee506080-d1cc-11ea-9b15-7af66b1eac0b.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88802471-f01a2400-d1cc-11ea-80d6-c00d07a8ba57.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88802476-f1e3e780-d1cc-11ea-8ab5-2825f9c3a309.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88802485-f3151480-d1cc-11ea-9ce6-6f27b61b4985.png" width="200"/>
 
@@ -349,7 +349,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Toyota
+### Toyota Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88802062-5fdbdf00-d1cc-11ea-8795-89af672a1217.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88802068-61a5a280-d1cc-11ea-814c-823b8d088554.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88802076-62d6cf80-d1cc-11ea-9920-d0483fa94dab.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88802081-6407fc80-d1cc-11ea-9461-969a2e319ab5.png" width="200"/>
 
@@ -357,7 +357,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Lexus
+### Lexus Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88801546-b268cb80-d1cb-11ea-8d0c-500363dbe9fd.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88801558-b4cb2580-d1cb-11ea-81dd-8ad7dfb22e4d.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88801565-b694e900-d1cb-11ea-81c6-bae33026d8f5.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88801581-b8f74300-d1cb-11ea-8c12-3e5b121f6584.png" width="200"/>
 
@@ -365,7 +365,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Lancia
+### Lancia Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88800616-46399800-d1ca-11ea-8835-83b1ce212d74.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88800624-48035b80-d1ca-11ea-82c0-9b077e5d69c5.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88800629-49348880-d1ca-11ea-9de2-79ef6686a21f.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88800635-4a65b580-d1ca-11ea-9e2d-c85ea2b734f0.png" width="200"/>
 
@@ -373,7 +373,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Mazda
+### Mazda Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88800314-c7dcf600-d1c9-11ea-9c16-0fe6b19ed149.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88800323-c9a6b980-d1c9-11ea-8460-fcf74100207c.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88800326-cb707d00-d1c9-11ea-9b69-e38ad975bb89.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88800334-cd3a4080-d1c9-11ea-9d0f-6fe2d38b70ae.png" width="200"/>
 
@@ -381,7 +381,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Honda
+### Honda Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88799104-cc081400-d1c7-11ea-900b-eeebbe1c83e2.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88799110-cdd1d780-d1c7-11ea-9997-961eeeab4474.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88799119-cf030480-d1c7-11ea-9ca7-402c14b537b7.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88799123-d0ccc800-d1c7-11ea-9233-7dcc6681844e.png" width="200"/>
 
@@ -389,7 +389,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Volvo
+### Volvo Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88798702-2654a500-d1c7-11ea-91f0-52a84a9d3a63.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88798710-281e6880-d1c7-11ea-8c9e-bd9d047a0778.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88798716-2a80c280-d1c7-11ea-875b-347a8bead720.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88798731-2e144980-d1c7-11ea-91a0-37cb9ab1c2d8.png" width="200"/>
 
@@ -397,63 +397,71 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Chevrolet
+### Chevrolet Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88792104-927ddb80-d1bc-11ea-9cbb-74401b9b6060.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792111-94479f00-d1bc-11ea-92f3-e3c3227cf1b2.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792115-96116280-d1bc-11ea-80c9-5ec338752d0d.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792124-97db2600-d1bc-11ea-851f-03988ba7edb1.png" width="200"/>
 
 <img src="https://user-images.githubusercontent.com/33668152/88792106-93af0880-d1bc-11ea-857e-570902ff1288.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792113-9578cc00-d1bc-11ea-9143-753b7400141b.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792122-97428f80-d1bc-11ea-9f81-05bad1dfa118.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792129-9873bc80-d1bc-11ea-89bf-1d3ac0ae30ad.png" width="200"/>
 
 ---
-### Peugeot
+
+### Peugeot Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88792797-a6760d00-d1bd-11ea-9bd1-ea505fec197c.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792804-a83fd080-d1bd-11ea-8450-20ad8d45e3b4.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792808-aa099400-d1bd-11ea-8ddb-4e0e5eee346d.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792811-abd35780-d1bd-11ea-9913-de32c7f71ab8.png" width="200"/>
 
 <img src="https://user-images.githubusercontent.com/33668152/88792802-a7a73a00-d1bd-11ea-8125-8c1cb4ace147.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792806-a8d86700-d1bd-11ea-8c4d-c1e18df97cd7.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792809-ab3ac100-d1bd-11ea-83ed-1f6badd508c6.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88792813-ac6bee00-d1bd-11ea-8bb4-622a1613283f.png" width="200"/>
 
 ---
-### Dacia
+
+### Dacia Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88793281-5ea3b580-d1be-11ea-8bb2-696c4e0b4e6a.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793288-61060f80-d1be-11ea-959e-ed2e31431351.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793294-62373c80-d1be-11ea-9093-a404a0757618.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793301-63686980-d1be-11ea-90a1-a7a57e046ffb.png" width="200"/>
 
 <img src="https://user-images.githubusercontent.com/33668152/88793286-606d7900-d1be-11ea-9d2f-dd8986246f3e.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793293-619ea600-d1be-11ea-9294-98ec78828903.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793298-63686980-d1be-11ea-9fe8-00895dcd2051.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793303-64999680-d1be-11ea-9401-4f9fca00d586.png" width="200"/>
 
 ---
-### Mini
+
+### Mini Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88793643-f43f4500-d1be-11ea-9f1d-5ac960117273.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793650-f6090880-d1be-11ea-8a0b-d2e0de91216e.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793659-f73a3580-d1be-11ea-8b5e-53d318c8d889.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793663-f86b6280-d1be-11ea-9a5f-41d627bc1d7b.png" width="200"/>
 
 <img src="https://user-images.githubusercontent.com/33668152/88793649-f5707200-d1be-11ea-8498-ee390e5af7a9.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793655-f6a19f00-d1be-11ea-9310-ada3627509b4.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88795894-944a9d80-d1c2-11ea-83b2-b71f963212f4.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88793666-f99c8f80-d1be-11ea-9347-5a1a0b18bccf.png" width="200"/>
 
 ---
-### Subaru
+
+### Subaru Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88794604-8b58cc80-d1c0-11ea-81bf-18759b70d1b7.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88794609-8dbb2680-d1c0-11ea-830b-d3ba77cefca4.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88794613-8eec5380-d1c0-11ea-8609-3960446fbbf6.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88794617-901d8080-d1c0-11ea-9618-559be5896f7a.png" width="200"/>
 
 <img src="https://user-images.githubusercontent.com/33668152/88794607-8d229000-d1c0-11ea-98d3-cf517612d62a.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88794611-8e53bd00-d1c0-11ea-80c6-d667b6af2115.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88794615-901d8080-d1c0-11ea-8656-9af5d3ddadf0.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88794620-914ead80-d1c0-11ea-90ff-e6f3a57b2008.png" width="200"/>
 
 ---
-### Renault
+
+### Renault Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88796238-26eb3c80-d1c3-11ea-9b1d-7c188154e2b8.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88796246-29e62d00-d1c3-11ea-95b9-52e534447785.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88796254-2c488700-d1c3-11ea-9b05-3f791e063bdf.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88796260-2d79b400-d1c3-11ea-829d-0285cb6ef026.png" width="200"/>
 
 <img src="https://user-images.githubusercontent.com/33668152/88796243-294d9680-d1c3-11ea-851c-5d71318c9907.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88796253-2baff080-d1c3-11ea-8745-336e215cdf46.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88796257-2ce11d80-d1c3-11ea-84b3-008152eeeae3.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88796263-2e124a80-d1c3-11ea-89ec-7ff5864a189c.png" width="200"/>
 
 ---
-### Tesla
+
+### Tesla Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88797352-091ed700-d1c5-11ea-982f-d12d35c32718.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88797355-0a500400-d1c5-11ea-9a5d-c6b1e7006c71.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88797359-0b813100-d1c5-11ea-899a-74bf62951202.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88797364-0cb25e00-d1c5-11ea-81fc-52fe4b54b6d4.png" width="200"/>
 
 <img src="https://user-images.githubusercontent.com/33668152/88797354-0a500400-d1c5-11ea-8e4b-55014d338b7f.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88797358-0b813100-d1c5-11ea-8f22-938319e4dd2d.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88797361-0c19c780-d1c5-11ea-9b15-38d96738ff71.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88797366-0d4af480-d1c5-11ea-8b23-1008002d4472.png" width="200"/>
 
 ---
-### Jeep
+
+### Jeep Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88797832-c7426080-d1c5-11ea-96cc-f0d4dc77b1d7.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88797838-c90c2400-d1c5-11ea-875f-fd9f1b3d5290.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88797843-ca3d5100-d1c5-11ea-8ab7-31831d719466.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88797852-cc071480-d1c5-11ea-8386-477130558afe.png" width="200"/>
 
 <img src="https://user-images.githubusercontent.com/33668152/88797836-c8738d80-d1c5-11ea-9e28-378efe762795.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88797840-c9a4ba80-d1c5-11ea-8a8f-32efd316ee5d.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88797850-cb6e7e00-d1c5-11ea-9ed6-dffb40950e0e.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88797855-cc9fab00-d1c5-11ea-8dbe-1401508b7743.png" width="200"/>
 
 ---
-### GMC
+
+### GMC Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88791460-8e04f300-d1bb-11ea-87d2-082d945d8a18.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88791473-96f5c480-d1bb-11ea-872d-c73433fcdddb.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88791493-a117c300-d1bb-11ea-9706-fcbcae0284d2.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88791536-b4c32980-d1bb-11ea-961c-3416e2c7daa8.png" width="200"/>
 
@@ -461,7 +469,7 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
-### Mitsubishi
+### Mitsubishi Logo
 
 <img src="https://user-images.githubusercontent.com/33668152/88798336-8e56bb80-d1c6-11ea-8006-c3facd3a4f1a.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88798342-90207f00-d1c6-11ea-972b-ee4e60ea43e9.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88798346-9151ac00-d1c6-11ea-86d2-a0765b81c4b5.png" width="200"/> <img src="https://user-images.githubusercontent.com/33668152/88798349-931b6f80-d1c6-11ea-8a63-538cb953cc64.png" width="200"/>
 
